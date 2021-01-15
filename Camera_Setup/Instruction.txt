@@ -1,0 +1,2 @@
+Copy mms.cfg to : %WINDIR%\SysWow64\Macromed\Flash
+
